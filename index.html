@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Blog</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
 </head>
 <body>
     <header>
@@ -13,14 +14,32 @@
     <nav>
         <ul id="post-list">
             <!-- Manually list Markdown files -->
-            <li><a href="post.html?file=post1.md">Post 1</a></li>
-            <li><a href="post.html?file=post2.md">Post 2</a></li>
+            <li><a href="#" onclick="renderMarkdown('post1.md')">Post 1</a></li>
+            <li><a href="#" onclick="renderMarkdown('post2.md')">Post 2</a></li>
             <!-- Add more list items for each Markdown file -->
         </ul>
     </nav>
 
+    <main id="markdown-content">
+        <!-- Markdown content will be rendered here -->
+    </main>
+
     <footer>
         <p>&copy; 2024 My Blog</p>
     </footer>
+
+    <script>
+        function renderMarkdown(filePath) {
+            fetch(filePath)
+                .then(response => response.text())
+                .then(text => {
+                    const converter = new showdown.Converter();
+                    const html = converter.makeHtml(text);
+                    document.getElementById('markdown-content').innerHTML = html;
+                })
+                .catch(error => console.error('Error fetching Markdown:', error));
+            event.preventDefault(); // Prevent default link behavior
+        }
+    </script>
 </body>
 </html>
