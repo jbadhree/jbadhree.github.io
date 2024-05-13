@@ -26,11 +26,12 @@
             .then(text => {
                 const parser = new DOMParser();
                 const doc = parser.parseFromString(text, 'text/html');
-                const links = doc.querySelectorAll('a[href$=".md"]');
+                const links = Array.from(doc.querySelectorAll('a[href$=".md"]'));
+
                 const postList = document.getElementById('post-list');
                 links.forEach(link => {
                     const listItem = document.createElement('li');
-                    const fileName = link.href.split('/').pop();
+                    const fileName = link.getAttribute('href');
                     listItem.innerHTML = `<a href="post.html?file=${encodeURIComponent(fileName)}">${fileName}</a>`;
                     postList.appendChild(listItem);
                 });
