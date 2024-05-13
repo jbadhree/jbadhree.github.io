@@ -12,30 +12,15 @@
 
     <nav>
         <ul id="post-list">
-            <!-- Markdown files will be listed here -->
+            <!-- Manually list Markdown files -->
+            <li><a href="post.html?file=post1.md">Post 1</a></li>
+            <li><a href="post.html?file=post2.md">Post 2</a></li>
+            <!-- Add more list items for each Markdown file -->
         </ul>
     </nav>
 
     <footer>
         <p>&copy; 2024 My Blog</p>
     </footer>
-
-    <script>
-        fetch('posts/')
-            .then(response => response.text())
-            .then(text => {
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(text, 'text/html');
-                const links = doc.querySelectorAll('a[href$=".md"]');
-
-                const postList = document.getElementById('post-list');
-                links.forEach(link => {
-                    const listItem = document.createElement('li');
-                    listItem.innerHTML = `<a href="post.html?file=${encodeURIComponent(link.textContent.trim())}">${link.textContent.trim()}</a>`;
-                    postList.appendChild(listItem);
-                });
-            })
-            .catch(error => console.error('Error fetching Markdown files:', error));
-    </script>
 </body>
 </html>
