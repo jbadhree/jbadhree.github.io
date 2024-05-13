@@ -14,6 +14,9 @@
     <nav>
         <ul id="post-list">
             <!-- Markdown files will be listed here -->
+            <li><a href="#" onclick="renderMarkdown('posts/about.md');">Post 1</a></li>
+            <li><a href="#" onclick="renderMarkdown('posts/finance.md');">Post 2</a></li>
+            <!-- Add more list items for each Markdown file -->
         </ul>
     </nav>
 
@@ -36,32 +39,8 @@
                     document.getElementById('markdown-content').innerHTML = html;
                 })
                 .catch(error => console.error('Error fetching Markdown:', error));
+            event.preventDefault(); // Prevent default link behavior
         }
-
-        // Function to fetch list of Markdown files in 'posts' directory
-        function fetchMarkdownFiles() {
-            fetch('posts/')
-                .then(response => response.text())
-                .then(text => {
-                    // Parse HTML response to extract Markdown file links
-                    const parser = new DOMParser();
-                    const doc = parser.parseFromString(text, 'text/html');
-                    const links = doc.querySelectorAll('a[href$=".md"]');
-
-                    // Add list items for each Markdown file
-                    const postList = document.getElementById('post-list');
-                    links.forEach(link => {
-                        const listItem = document.createElement('li');
-                        const fileName = link.href.split('/').pop();
-                        listItem.innerHTML = `<a href="#" onclick="renderMarkdown('posts/${fileName}');">${fileName}</a>`;
-                        postList.appendChild(listItem);
-                    });
-                })
-                .catch(error => console.error('Error fetching Markdown files:', error));
-        }
-
-        // Call the function to fetch Markdown files on page load
-        window.onload = fetchMarkdownFiles;
     </script>
 </body>
 </html>
