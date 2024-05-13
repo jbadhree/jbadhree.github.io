@@ -1,3 +1,3 @@
-# Badhree's Resume
+# Badhree's Website
 
-Go to - [jbadhree.github.io](https://jbadhree.github.io)
+Visit - [jbadhree.github.io](https://jbadhree.github.io)
