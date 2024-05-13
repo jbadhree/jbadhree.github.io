@@ -31,7 +31,7 @@
         const fileName = urlParams.get('file');
 
         if (fileName) {
-            renderMarkdown(fileName);
+            renderMarkdown('posts/'+fileName);
         } else {
             document.getElementById('markdown-content').innerHTML = '<p>No post selected</p>';
         }
