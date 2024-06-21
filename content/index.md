@@ -3,7 +3,6 @@ title: How The World Works
 tags:
 ---
 
-[[Philosphy]]
 
 
 ```
