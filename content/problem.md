@@ -3,7 +3,7 @@ title: What is a Problem
 ---
 Usually a problem is `someone's` thought about an `unexpected past event`. Viewing problem like this does not allow us to solve it, because, 1. It has already happened and 2. It is just an opinion from one (or a bunch). It is not useful. 
 
-One could argue what if it is not just an opinion, but someone did a postmortem and found for why it happened, we can use this information to prevent it from happening in the future. Is it useful then ? Possible but not Probable. There is this quote that captures my thought:
+One could argue what if it is not just an opinion, but someone did a postmortem and found out why it happened, we can use this information to prevent it from happening in the future. Is it useful then ? Possible but not Probable. There is this quote that captures my thought:
 ```
 History does not repeaat, but it often rhymes. 
 
