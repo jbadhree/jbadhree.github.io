@@ -3,7 +3,7 @@ title: Algorithmic Testing vs. Humanistic Testing - A Balanced Approach to Softw
 ---
 In the world of software testing, two distinct approaches stand out: Algorithmic Testing and Humanistic Testing. While both methods aim to ensure the quality of a product, they bring unique strengths to the table.
 
-**Algorithmic Testing****
+**Algorithmic Testing**
 
 What we call Algorithmic Testing is essentially test automation. It involves writing scripts that automate repetitive and predictable tasks. These tests are fast, efficient, and can cover a broad range of scenarios with minimal human intervention. Once set up, they can run continuously, providing quick feedback on code changes. However, algorithmic tests follow a fixed set of instructions and lack the ability to go beyond the boundaries defined by their code. They miss the nuances that come with human understanding, like intuition, experience, and the ability to handle ambiguity.
 
