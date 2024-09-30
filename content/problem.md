@@ -1,20 +1,41 @@
 ---
 title: What is a Problem
 ---
-Usually a problem is `someone's` thought about an `unexpected past event`. Viewing problem like this does not allow us to solve it, because, 1. It has already happened and 2. It is just an opinion from one (or a bunch). It is not useful. 
+Typically, we view problems as someone's interpretation of an unexpected past event. But framing problems this way is unproductive for two key reasons:
 
-One could argue what if it is not just an opinion, but someone did a postmortem and found out why it happened, we can use this information to prevent it from happening in the future. Is it useful then ? Possible but not Probable. There is this quote that captures my thought:
-```
-History does not repeaat, but it often rhymes. 
+1. It's already happened — The event is in the past, and we can't change it.
+2. It's subjective — Often, it’s just an opinion, either from an individual or a group, and that limited perspective may not offer real solutions.
 
-Mark Twain
-```
-There are too many random variations that can happen in future so just using the information for why something happened in the past may not help to solve the problem in the future. 
+But what if it's more than just an opinion? What if a thorough postmortem was conducted, and we know exactly why the event happened? Can we use this information to prevent similar events in the future? The answer: possible, but not probable.
 
-So, Can we see problem as a `predicted future event` based on theories which can be `refuted` by argumentation right now and `validated` in future ? Yes, this is `mostly` how I like to view problems - `Refute-able, Validate-able, Predicted Future Event`
+There’s a famous quote by Mark Twain that resonates with me:
 
-Along which this, I would like to add one more criteria. it is `Hard to Vary`. I added this criterion after I read David Deutsch's works. Here is a [video](https://www.youtube.com/watch?v=3eEffbjzNwE)  where he explains why an explanations must be hard to vary. Hard to Vary also makes the theories and explanations Systemic and Holistic, so its not just someone's opinion, its most likely to happen. 
+`History doesn’t repeat itself, but it often rhymes.`
+— Mark Twain
 
-So we have definition of a Problem as a `Hard to Vary, Refute-able, Validate-able, Predicted Future Event`. But, there is one last piece that I would like to add. Its our desire. Do we want that event to happen, If Yes, then there is no problem. But if its `undesired` then we have a problem. 
+The point here is that future events are influenced by a myriad of random variations, making it unreliable to base our solutions solely on past occurrences.
 
-So this is how I define a problem - `Undesired, Hard to Vary, Refute-able, Validate-able, Predicted Future Event`.
+**A New Way of Seeing Problems**
+
+Instead of looking backward, I propose we view problems as `predicted future events—events` that are open to being refuted or validated. This approach reframes problems as hypotheses: ideas that can be tested, argued, and ultimately confirmed or disproved as the future unfolds.
+
+But there's more. After diving into David Deutsch's works, I discovered an essential criterion for a meaningful explanation: it must be hard to vary. When an explanation is hard to change, it becomes systemic and holistic. It’s no longer just one person’s opinion—it’s an idea that holds strong across various contexts, making it more reliable.
+
+**Defining the Problem**
+
+To define a problem, I’ve established a few key principles. A problem must be:
+
+- Hard to Vary — It shouldn’t be easily manipulated to fit just any situation.
+- Refutable — It should be possible to challenge the explanation or prediction.
+- Validatable — The event or explanation can be tested and confirmed.
+- A Predicted Future Event — The problem isn't rooted in the past but in what we anticipate may happen.
+
+But there's one final element: desire. Do we want this event to happen? If the answer is yes, then it’s not a problem at all. But if the event is `undesired`, then we have a true problem.
+
+**The Full Definition**
+
+In summary, here’s how I define a problem:
+
+`An Undesired, Hard to Vary, Refutable, Validatable, Predicted Future Event.`
+
+By approaching problems this way, we shift from reactive thinking to proactive problem-solving, grounded in systemic understanding and a focus on future possibilities.
