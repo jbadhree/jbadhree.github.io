@@ -1,12 +1,12 @@
 ---
 title: What is a Problem
 ---
-Typically, we view problems as someone's interpretation of an unexpected past event. But framing problems this way is unproductive for two key reasons:
+Typically, we view problems as `unexpected past events`. Framing problems this way is `unproductive` because:
 
 1. It's already happened — The event is in the past, and we can't change it.
 2. It's subjective — Often, it’s just an opinion, either from an individual or a group, and that limited perspective may not offer real solutions.
 
-But what if it's more than just an opinion? What if a thorough postmortem was conducted, and we know exactly why the event happened? Can we use this information to prevent similar events in the future? The answer: possible, but not probable.
+But what if it's more than just an opinion? What if a thorough postmortem was conducted, and we know exactly why the event happened? What if we learn from a past event? Can we use this information to prevent similar events in the future? The answer: possible, but not probable.
 
 There’s a famous quote by Mark Twain that resonates with me:
 
@@ -17,9 +17,9 @@ The point here is that future events are influenced by a myriad of random variat
 
 **A New Way of Seeing Problems**
 
-Instead of looking backward, I propose we view problems as `predicted future events—events` that are open to being refuted or validated. This approach reframes problems as hypotheses: ideas that can be tested, argued, and ultimately confirmed or disproved as the future unfolds.
+Instead of looking backward, I propose we view problems as `predicted future events` that are open to being refuted or validated. This approach reframes problems as hypotheses: ideas that can be tested, argued, and ultimately confirmed or disproved as the future unfolds.
 
-But there's more. After diving into David Deutsch's works, I discovered an essential criterion for a meaningful explanation: it must be hard to vary. When an explanation is hard to change, it becomes systemic and holistic. It’s no longer just one person’s opinion—it’s an idea that holds strong across various contexts, making it more reliable.
+But there's more. After diving into David Deutsch's works, I discovered an essential criterion for a meaningful explanation: it must be hard to vary. When an explanation is hard to change, it becomes systemic and holistic. It’s no longer just an opinion—it’s an idea that holds strong across various contexts, making it more reliable.
 
 **Defining the Problem**
 
