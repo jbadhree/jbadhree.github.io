@@ -32,10 +32,14 @@ To define a problem, I’ve established a few key principles. A problem must be:
 
 But there's one final element: desire. Do we want this event to happen? If the answer is yes, then it’s not a problem at all. But if the event is `undesired`, then we have a true problem.
 
+However, we must also understand that we cannot predict everything. The future is inherently uncertain, and there will always be factors beyond our control. 
+This is where we must be prepared—not just to act but to upgrade our understanding that could lead to better predictions. 
+This attitude of `predict but be prepared` helps us make steady progress, no matter the field we're working in. By embracing this mindset, we remain flexible and capable of improving our problem-solving over time.
+
 **The Full Definition**
 
 In summary, here’s how I define a problem:
 
-`An Undesired, Hard to Vary, Refutable, Validatable, Predicted Future Event.`
+`An Undesired, Hard to Vary, Refutable, Validatable, Predicted Future Event.` and `Predict but be Prepared`.
 
 By approaching problems this way, we shift from reactive thinking to proactive problem-solving, grounded in systemic understanding and a focus on future possibilities.
