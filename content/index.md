@@ -12,11 +12,9 @@ I am planning to grow this garden with an attitude of `refutation`. Meaning, I w
 
 While I try to refute deeply rooted ideas, I aware that I am fallible. So I may be wrong, you may be right, if you want to get closer to reality as well, and want to discuss about any of my thoughts posted in this site, feel free to email me @ [badhree.babu.314@gmail.com](mailto:badhree.babu.314@gmail.com) or start a conversation in this public [google group](https://groups.google.com/g/badhrees-garden).
 
-```
-I may be wrong, you may be right, and by an effort we may get nearer to the truth.
+"I may be wrong, you may be right, and by an effort we may get nearer to the truth."
+-- Karl Popper
 
-Karl Popper
-```
 
 **Posts**
 
