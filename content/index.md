@@ -2,7 +2,7 @@
 title: Welcome to My Garden
 tags:
 ---
-I came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) and I wanted to selfishly create one. Since my school days, I have always felt my knowledge about any topic is never complete and there is always room to learn more. Later in life I learnt about [epistemology](https://en.wikipedia.org/wiki/Epistemology) and came to an understanding that human knowledge is not static it changes, evolves and grows. I aim to use this garden to write my ideas down and grow them and I believe this will deepen and widen my understanding about the truth of reality. 
+I came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) and I thought to create one. Since my school days, I have always felt my knowledge about any topic is never complete and there is always room to learn more. May be its how the education system has structured the syllabus each year, but, later in life I read about [epistemology](https://en.wikipedia.org/wiki/Epistemology) and learnt something profound. [All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md) I aim to use this garden to write my ideas down and grow them and I believe this will deepen and widen my understanding about the truth of reality. 
 
 I see some events happening and consider them as [problems](problem.md) and start thinking about them in a systemic and a holistic way to first understand and then to dissolve or solve them. These problems are going to one of the primary focus in this digital garden. I do not claim to have the best solutions/dissolutions or even have one, but I believe writing these down will help me improve my understanding and I will be able to find better dissolutions or solutions for the problems.
 
@@ -17,4 +17,18 @@ I may be wrong, you may be right, and by an effort we may get nearer to the trut
 
 Karl Popper
 ```
+
+**Posts**
+
+[All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md)
+
+[The Three Types of Knowledge - Genetic, Memetic, and Explanatory](types_of_knowledge.md)
+
+[Algorithmic Testing vs. Humanistic Testing - A Balanced Approach to Software Quality](algorithmic_testing_vs_humanistic_testing.md)
+
+[What is a Problem](problem.md)
+
+[On Purpose - It's Not What You Say. It’s What You Do](purpose.md)
+
+
 
