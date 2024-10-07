@@ -5,8 +5,22 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  footer: Component.Footer(
-),
+  footer: Component.Footer(),
+  afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'jackyzha0/quartz',
+      // from data-repo-id
+      repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
+    }
+  }),
+],
 }
 
 // components for pages that display a single page (e.g. a single note)
