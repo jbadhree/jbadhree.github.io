@@ -43,7 +43,11 @@ export {
   NotFound,
   Breadcrumbs,
 }
-export function Comments(arg0: { provider: string; options: { repo: string; repoId: string; category: string; categoryId: string } }): import("./types").QuartzComponent {
+
+export function Comments(): import("./types").QuartzComponent {
   throw new Error("Function not implemented.")
 }
+// export function Comments(arg0: { provider: string; options: { repo: string; repoId: string; category: string; categoryId: string } }): import("./types").QuartzComponent {
+//   throw new Error("Function not implemented.")
+// }
 
