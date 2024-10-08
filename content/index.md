@@ -2,7 +2,7 @@
 title: Welcome to My Garden
 tags:
 ---
-I wanted to start a blog to start unleashing my ideas to the world. But it was a scary endeavor. What if I say something wrong, what if I get humiliated in public, what if I get bullied. One day came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). It sounded was more like public notes rather than personal blog or news letter. I thought to create one for myself, a place in the internet where I can write down my thoughts and keep modifying it, or as its called among other Digital Gardners - keep growing it. 
+One day came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). It sounded more like public notes rather than personal blog. I wanted to created a website for myself and public notes resonated more with me than a blog. So this is a space in the internet where I can write down my ideas and keep modifying it, or as its called among other Digital Gardners - keep growing it. 
 
 Since my school days, I have always felt my knowledge about any topic is never complete and there is always room to learn more. May be I thought so because education system has been structured with syllabus that builds on top of each topic every year. Later in life I read about [epistemology](https://en.wikipedia.org/wiki/Epistemology) and learnt something profound. [All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md) I aim to use this garden to write my ideas down and grow them and I believe this will deepen and widen my understanding about the truth of reality. 
 
