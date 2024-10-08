@@ -19,6 +19,7 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
+import Comments from "./Comments"
 
 export {
   ArticleTitle,
@@ -42,12 +43,8 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
+  Comments
 }
 
-export function Comments(): import("./types").QuartzComponent {
-  throw new Error("Function not implemented.")
-}
-// export function Comments(arg0: { provider: string; options: { repo: string; repoId: string; category: string; categoryId: string } }): import("./types").QuartzComponent {
-//   throw new Error("Function not implemented.")
-// }
+
 
