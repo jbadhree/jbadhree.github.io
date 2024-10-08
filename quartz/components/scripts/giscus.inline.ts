@@ -1,29 +1,29 @@
 const lightTheme = "noborder_light"
 const darkTheme = "noborder_dark"
 
-function sendMessage<T>(message: T) {
-  const iframe = document.querySelector<HTMLIFrameElement>('iframe.giscus-frame');
-  if (!iframe) return;
-  if (iframe.contentWindow === null) return;
-  iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-}
+// function sendMessage<T>(message: T) {
+//   const iframe = document.querySelector<HTMLIFrameElement>('iframe.giscus-frame');
+//   if (!iframe) return;
+//   if (iframe.contentWindow === null) return;
+//   iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+// }
 
-const onThemeToggle = ()=>{
-  const toggleSwitch = document.querySelector("#darkmode-toggle") as HTMLInputElement
-  changeTheme(toggleSwitch.checked)
-}
+// const onThemeToggle = ()=>{
+//   const toggleSwitch = document.querySelector("#darkmode-toggle") as HTMLInputElement
+//   changeTheme(toggleSwitch.checked)
+// }
 
-function changeTerm(url: any) {
-  sendMessage({ setConfig: { term: url } })
-}
+// function changeTerm(url: any) {
+//   sendMessage({ setConfig: { term: url } })
+// }
 
-function changeTheme(dark: boolean) {
-  sendMessage({ setConfig: { theme: dark? darkTheme : lightTheme } })
-}
+// function changeTheme(dark: boolean) {
+//   sendMessage({ setConfig: { theme: dark? darkTheme : lightTheme } })
+// }
 
-function notMainPage(detail: { url: string; }) {
-  return detail.url !== "index"
-}
+// function notMainPage(detail: { url: string; }) {
+//   return detail.url !== "index"
+// }
 
 export default function loadComments() {
   const darkMode = (document.querySelector("#darkmode-toggle") as HTMLInputElement).checked
