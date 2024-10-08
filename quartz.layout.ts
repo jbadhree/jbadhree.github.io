@@ -19,7 +19,7 @@ export const sharedPageComponents: SharedLayout = {
         // from data-category-id
         categoryId: 'DIC_kwDODZqnmc4CjJWt',
       }
-    } as any), // Use 'as any' to bypass type checking
+    } as any), 
   ],
 }
 
