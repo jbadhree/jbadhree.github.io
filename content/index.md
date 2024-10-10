@@ -2,7 +2,7 @@
 title: Welcome to My Garden
 tags:
 ---
-I know Nothing. Everything written in this garden could be wrong. 
+**I know Nothing. Everything written in this garden could be wrong.** 
 
 One day came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). It sounded more like public notes rather than personal blog. I wanted to created a website for myself and public notes resonated more with me than a blog. So this is a space in the internet where I can write down my ideas and keep modifying them, or as Digital Gardners say - keep growing them. 
 
