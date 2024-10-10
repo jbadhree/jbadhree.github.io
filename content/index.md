@@ -2,11 +2,11 @@
 title: Welcome to My Garden
 tags:
 ---
-**I know Nothing. Everything written in this garden could be wrong.** 
+**I know Nothing. Everything written in this ~~site~~ garden could be wrong.** 
 
-One day came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). It sounded more like public notes rather than personal blog. I wanted to created a website for myself and public notes resonated more with me than a blog. So this is a space in the internet where I can write down my ideas and keep modifying them, or as Digital Gardners say - keep growing them. 
+I wanted to created a website for myself and blogging seems to be more prominent way to build a personal website in this day and age. One day came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). It sounded more like `public notes`  rather than `personal blog`. It resonated well with me and I thought to create one. This is a tiny space in the www where I can write my ideas down and keep modifying them, or as Digital Gardners say - keep growing them. 
 
-Since my school days, I have always felt my knowledge about any topic is never complete and there is always room to learn more. May be I thought so because education system has been structured with syllabus that builds on top of each topic every year. Later in life I read about [epistemology](https://en.wikipedia.org/wiki/Epistemology) and learnt something profound. [All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md) I aim to use this garden to write my ideas down and grow them and I believe this will deepen and widen my understanding about the truth of reality. 
+In my school days, I had an naïve idea that knowledge about any subject is never complete and there is always room to learn more. May be I thought so because the education system has been structured with a syllabus that builds on top of each topic every year. Later in life I read about [epistemology](https://en.wikipedia.org/wiki/Epistemology) and learnt something profound. [All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md) I aim to use this garden to write my ideas down and grow them and I believe this will deepen and widen my understanding about the truth of reality. 
 
 I am grateful that I got to meet one of the greatest `theacher` [Manish Jain](https://www.linkedin.com/in/manishjain99/) who lives up to a quote from Socrates "I cannot teach anybody anything, I can only make them think", and hence a `theacher` and not a teacher. His `theachings` helped me clear my thoughts and look at reality in a way I never looked at before. Thanks You Manish!
 
@@ -21,18 +21,15 @@ My ideas are open for refutation as well. Whenever I get refuted, by someone els
 "I may be wrong, you may be right, and by an effort we may get nearer to the truth."
 -- Karl Popper
 
+**Ideas**
 
-**Posts**
+- [All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md)
+- [The Three Types of Knowledge - Genetic, Memetic, and Explanatory](types_of_knowledge.md)
+- [What is a Problem](problem.md)
+- [On Purpose - It's Not What You Say. It’s What You Do](purpose.md)
+- [Algorithmic Testing vs. Humanistic Testing - A Balanced Approach to Software Quality](algorithmic_testing_vs_humanistic_testing.md)
 
-[All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md)
 
-[The Three Types of Knowledge - Genetic, Memetic, and Explanatory](types_of_knowledge.md)
-
-[Algorithmic Testing vs. Humanistic Testing - A Balanced Approach to Software Quality](algorithmic_testing_vs_humanistic_testing.md)
-
-[What is a Problem](problem.md)
-
-[On Purpose - It's Not What You Say. It’s What You Do](purpose.md)
 
 
 
