@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "badhreebabu.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private_*", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
