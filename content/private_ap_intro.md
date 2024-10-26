@@ -1,0 +1,11 @@
+---
+title: High School AP
+---
+I was recently talking to my niece who is in High School, and is taking AP classes. I asked if I can take a look at one of her AP books. She handed me AP World History Book. I turned to the first page which said "Introduction" and as I was reading it, I saw a lot of things that I didn't agree with. Especially the reasons they stated for why its good for students should take an AP class. It was more about the outcome oriented and less about the means. It also felt like a marketing content towards a career path that gravitates around scholarship, money and "good" colleges.  
+
+![[ap_intro.jpg]]
+It starts with a warning about how hard its going to be - "....challenging and demanding.... already have a lot of pressure...". Then it talks about the reasons why should one do it despite it being so difficult. The reason starts with an authority "....Growing number of students..". If its so wonderful why use authority of 'count' to give a reason for students to take it ? Then it says they "..realize benefits". So where is the real reason ? What was the reason for which this AP course was created before a growing number of students took it ? At some point in history a growing number of people believed that watch was flat or earth was the center of universe. But few people believed otherwise. Who is right ? Why is this book indirectly telling students to follow the crowd. If humanity gave reasoning based on what growing number of people are doing or believing, would we have made any progress. Why do deceive students in to giving a reason by saying "So why take an AP course like this... " and then use authority of number of people. 
+
+Independent work, research and analysis is good. But right after that they mention, "covering a lot of materials in short time". So they again scare students with the amount of material and short time to add pressure. What is important for students, to gain knowledge or to merely cover the materials ? 
+
+Then they scare you saying 
