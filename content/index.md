@@ -23,11 +23,12 @@ To comment, readers will need a GitHub account ([Signup](https://github.com/sign
 
 **Ideas**
 
-- [All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md)
-- [The Three Types of Knowledge - Genetic, Memetic, and Explanatory](types_of_knowledge.md)
-- [What is a Problem](problem.md)
-- [On Purpose - It's Not What You Say. It’s What You Do](purpose.md)
-- [Algorithmic Testing vs. Humanistic Testing - A Balanced Approach to Software Quality](algorithmic_testing_vs_humanistic_testing.md)
+1. [All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md)
+2. [The Three Types of Knowledge - Genetic, Memetic, and Explanatory](types_of_knowledge.md)
+3. [What is a Problem](problem.md)
+4. [On Purpose - It's Not What You Say. It’s What You Do](purpose.md)
+5. [Algorithmic Testing vs. Humanistic Testing - A Balanced Approach to Software Quality](algorithmic_testing_vs_humanistic_testing.md)
+6. [Why Median Absolute Deviation May Be Better Than Standard Deviation](median_deviation.md)
 
 
 
