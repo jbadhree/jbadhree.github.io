@@ -85,12 +85,12 @@ With normally distributed data, SD captures variability more comprehensively, ma
 **Summary: When to Choose MAD or Standard Deviation**
 
 Choose MAD when:
-	•	The dataset contains outliers or extreme values.
-	•	Data is skewed and non-normal.
-	•	You need a robust spread measure that’s unaffected by outliers.
-	•	Choose Standard Deviation when:
-	•	Data is normally distributed with few or no outliers.
-	•	Capturing all variations, including outliers, is important for your analysis.
+- The dataset contains outliers or extreme values.
+- Data is skewed and non-normal.
+- You need a robust spread measure that’s unaffected by outliers.
+- Choose Standard Deviation when:
+- Data is normally distributed with few or no outliers.
+- Capturing all variations, including outliers, is important for your analysis.
 
 **Conclusion**
 
