@@ -2,9 +2,9 @@
 title: Welcome to My Garden
 tags:
 ---
-**I know Nothing. Everything written in this ~~site~~ garden could be wrong.** 
+***Everything written in this ~~site~~ garden could be wrong***
 
-I wanted to created a website for myself and blogging seems to be more prominent way to build a personal website in this day and age. One day came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). It sounded more like `public notes`  rather than `personal blog`. It resonated well with me and I thought to create one. This is a tiny space in the www where I can write my ideas down and keep modifying them, or as Digital Gardners say - keep growing them. 
+I wanted a way to freely write my ideas and get feedback from people. Blogging seems to be more prominent way to do that in this day and age. And then one day came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). It sounded more like `public notes`  rather than `personal blog`. It resonated well with me and I thought to create one. This is a tiny space in the www where I can write my ideas down and keep modifying them, or as Digital Gardners say - keep growing them. 
 
 In my school days, I had an naïve idea that knowledge about any subject will never be complete and there will always be something to learn more. May be I thought so because the education system has been structured that way where a wide variety of subjects are introduced first and then they make us move towards a specialization and ultimately to very specific field of study in college and then work in the industry. But even after that, it seems there is so much to learn even in the area of expertise. Later in life I read about [epistemology](https://en.wikipedia.org/wiki/Epistemology) and learnt something profound. [All Human Knowledge,  are basically some Ideas that evolves and grows](human_knowledge.md) forever.  I aim to use this garden to write my ideas humble down and grow them and I believe this will slightly deepen and widen my understanding about the truth of reality. 
 
