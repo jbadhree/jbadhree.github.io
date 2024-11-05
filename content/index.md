@@ -2,7 +2,19 @@
 title: Welcome to My Garden
 tags:
 ---
-***Everything written in this ~~site~~ garden could be wrong***
+***Everything written in this ~~site~~ garden could be [wrong](about_wrong.md)***
+
+**Ideas**
+
+1. [All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md)
+2. [The Three Types of Knowledge - Genetic, Memetic, and Explanatory](types_of_knowledge.md)
+3. [What is a Problem](problem.md)
+4. [On Purpose - It's Not What You Say. It’s What You Do](purpose.md)
+5. [The Multi-Dimensional Meaning of the word - Wrong](about_wrong.md)
+6. [Algorithmic Testing vs. Humanistic Testing - A Balanced Approach to Software Quality](algorithmic_testing_vs_humanistic_testing.md)
+7. [Why Median Absolute Deviation May Be Better Than Standard Deviation](median_deviation.md)
+
+**About this ~~site~~ garden**
 
 I wanted a way to freely write my ideas and get feedback from people. Blogging seems to be more prominent way to do that in this day and age. And then one day came across the term [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). It sounded more like `public notes`  rather than `personal blog`. It resonated well with me and I thought to create one. This is a tiny space in the www where I can write my ideas down and keep modifying them, or as Digital Gardners say - keep growing them. 
 
@@ -21,14 +33,7 @@ To comment, readers will need a GitHub account ([Signup](https://github.com/sign
 "I may be wrong, you may be right, and by an effort we may get nearer to the truth."
 -- Karl Popper
 
-**Ideas**
 
-1. [All Human Knowledge,  are basically some Ideas that evolves and grows.](human_knowledge.md)
-2. [The Three Types of Knowledge - Genetic, Memetic, and Explanatory](types_of_knowledge.md)
-3. [What is a Problem](problem.md)
-4. [On Purpose - It's Not What You Say. It’s What You Do](purpose.md)
-5. [Algorithmic Testing vs. Humanistic Testing - A Balanced Approach to Software Quality](algorithmic_testing_vs_humanistic_testing.md)
-6. [Why Median Absolute Deviation May Be Better Than Standard Deviation](median_deviation.md)
 
 
 

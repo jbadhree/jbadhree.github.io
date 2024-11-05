@@ -1,7 +1,7 @@
 ---
 title: Algorithmic Testing vs. Humanistic Testing - A Balanced Approach to Software Quality
 ---
-In the world of software testing, two distinct approaches stand out: Algorithmic Testing and Humanistic Testing. While both methods aim to ensure the quality of a product, they bring unique strengths to the table.
+I was in discussion about large scale software testing. When I say large scale, it means 1000s of backend components and 1000s of web components and 100s of mobile components. Imagine a company that has its services that cater to every  you can  and someone brought up the In the world of software testing, two distinct approaches stand out: Algorithmic Testing and Humanistic Testing. While both methods aim to ensure the quality of a product, they bring unique strengths to the table.
 
 **Algorithmic Testing**
 
