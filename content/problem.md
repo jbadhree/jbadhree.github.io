@@ -64,6 +64,6 @@ The team should also be prepared to enhance their understanding of edge cases as
 
 In summary, here’s how I define a problem:
 
-`An Undesired, Hard to Vary, Refutable, Validatable, Predicted Future Event.` and `Predict but be Prepared`.
+`An Undesired, Hard to Vary, Refutable, Validatable, Predicted Future Event.` I also advice to `Predict, but be Prepared`.
 
 By approaching problems this way, we shift from reactive thinking to proactive problem-solving, grounded in systemic understanding and a focus on future possibilities.

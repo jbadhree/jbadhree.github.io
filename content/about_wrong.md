@@ -1,5 +1,5 @@
 ---
-title: The Multi-Dimensional Meaning of the word - Wrong
+title: Multi-Dimensional Meaning of the word - Wrong
 ---
 I wanted to communicate to people reading my ~~website~~ garden that I am "fallible" and I was "Epistemically Humble". So in the home page, I wrote "Everything written in this ~~site~~ garden could be wrong". I felt happy that I was being clear. But then when I was reading it again after a few days, I felt, the word “wrong” is a versatile concept with layers of meaning that can vary depending on the context. So I thought understanding these different dimensions can help me communicate more clearly. 
 
@@ -9,7 +9,7 @@ My primary focus when I discuss something being “wrong” leans toward **logic
 
 **Logical Wrongness**
 
-Logical wrongness is about errors in reasoning, structure, or factual accuracy. This dimension of “wrong” occurs when something doesn’t make logical sense or when it includes contradictions, fallacies, or false assumptions. Logical wrongness is important in areas that require clear, precise thought, like problem-solving, programming, or mathematics.
+Logical wrongness is about errors in reasoning, structure, or factual accuracy. This dimension of “wrong” occurs when something doesn’t make logical sense or violates rules of logic. 
 
 For instance:
 
