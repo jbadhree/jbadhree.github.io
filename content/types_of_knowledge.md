@@ -2,7 +2,7 @@
 title: The Three Types of Knowledge - Genetic, Memetic, and Explanatory
 ---
 
-Humanity is unique in its capacity for thought, culture, and understanding. We’ve come a long way, from surviving as early hominins to thriving in the modern world. Our ability to evolve, adapt, and innovate stems from three distinct forms of knowledge: genetic, memetic, and explanatory. Each of these types serves a different purpose, building upon the previous, and together they form the bedrock of human development.
+Humanity is unique in its capacity for thought, culture, and understanding. We’ve come a long way, from surviving as early hominids to thriving in the modern world. Our ability to evolve, adapt, and innovate stems from three distinct forms of knowledge: genetic, memetic, and explanatory. Each of these types serves a different purpose, building upon the previous, and together they form the bedrock of human development.
 
 **Genetic Knowledge: The Foundation of Life**
 
