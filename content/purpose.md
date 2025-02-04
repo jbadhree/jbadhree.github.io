@@ -1,7 +1,13 @@
 ---
 title: On Purpose - It's Not What You Say. It’s What You Do
 ---
-Purpose is not about making grand statements—it's revealed through consistent actions. While it’s tempting to define purpose through slogans or motivational speeches, what truly matters is how closely your actions reflect your declared purpose. The same applies to organizations and individuals, but the key is in how they align, despite potentially having different driving purposes.
+Purpose is not a destination. It is a guide. Purpose is not about making grand statements—it's revealed through consistent actions. While it’s tempting to define purpose through slogans or motivational speeches, what truly matters is how closely your actions reflect your declared purpose. The same applies to organizations and individuals, but the key is in how they align, despite potentially having different driving purposes.
+
+Lets dig deeper. 
+
+**Purpose of Purpose**
+
+We usually ask this question: What `is` your Purpose ? to individuals and organizations. This question assumes that purpose is an objective thing or something concrete. Something that is meant to be attained. It could make one to 'search' for purpose.  It makes it seem like it `is` there and you need to `find` it. Purpose cannot be found. Rather, the question should be **What do you want your purpose to be?**. This question puts the human who is answering this question in charge to `define` their own purpose. The **purpose of purpose** is to have a guiding principle for your decisions so that you don't end up where you don't want to be. I say where "you" don't to be. I say that because, if you ask **why do you want the purpose to be X ?**, then answer to that question would be, "Because I want it". No one can question "why" you want it. Now that you want it, how do you get it. You need to head in the a direction towards it. This is the Purpose of Purpose. It puts whatever you want in words so you can use those words as a guiding principle to make every decision. This applies for both individuals and organizations. 
 
 **Organizational Purpose vs. Individual Purpose**
 
