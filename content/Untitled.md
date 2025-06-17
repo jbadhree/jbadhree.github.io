@@ -1,0 +1,1 @@
+Teaching kida starts with not teaching them... like when zeke missed a step in happy and you kow it.. we dshoul dnot teach or fix it 
